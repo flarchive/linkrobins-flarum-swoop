@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of linkrobins/flarum-swoop.** Not for installation: use [Packagist](https://packagist.org/packages/linkrobins/flarum-swoop) or the [upstream repository](https://github.com/linkrobins/flarum-swoop).
 
-**0** versions archived · Latest: [`v2.0.1`](https://github.com/flarchive/linkrobins-flarum-swoop/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0`
+**3** versions archived · Latest: [`v2.0.1`](https://github.com/flarchive/linkrobins-flarum-swoop/tree/archive/v2.0.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-09-09 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-swoop/tree/archive/v1.0.0) |
+| `v2.0.0` | 2026-09-11 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-swoop/tree/archive/v2.0.0) |
+| `v2.0.1` | 2026-09-15 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-swoop/tree/archive/v2.0.1) |
 
 Catalog entry: [packages/linkrobins-flarum-swoop.json](https://github.com/flarchive/archive-index/blob/main/packages/linkrobins-flarum-swoop.json)
 
